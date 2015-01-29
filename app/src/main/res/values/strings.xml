@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Fragments Orientation</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="portrait_text_view">In portrait View</string>
+    <string name="landscape_text_view">In landscape View</string>
+
+</resources>
